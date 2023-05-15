@@ -1,0 +1,133 @@
+cs1302-api:
+total 64
+-rw-r--r--. 1 myid  6658 Apr 23 10:38 APPENDIX_API.rst
+-rw-r--r--. 1 myid  4205 Apr 23 10:38 APPENDIX_GIT.rst
+drwxr-xr-x. 3 myid    20 May  1 12:52 bin
+drwxr-xr-x. 2 myid    33 May  4 04:14 meta
+-rw-r--r--. 1 myid  8370 Apr 23 10:38 pom.xml
+-rwxr-xr-x. 1 myid   105 Apr 23 10:38 prepare-merge.sh
+-rw-r--r--. 1 myid 26131 Apr 28 11:30 README.rst
+-rw-r--r--. 1 myid     0 May  4 15:43 rec31003
+drwxr-xr-x. 2 myid    82 Apr 23 10:38 resources
+-rwxr-xr-x. 1 myid   119 Apr 23 10:38 run.sh
+drwxr-xr-x. 4 myid    42 Apr 23 10:38 src
+drwxr-xr-x. 5 myid   104 May  4 15:39 target
+
+cs1302-api/bin:
+total 0
+drwxr-xr-x. 3 myid 25 May  1 12:52 cs1302
+
+cs1302-api/bin/cs1302:
+total 0
+drwxr-xr-x. 2 myid 127 May  1 12:52 api
+
+cs1302-api/bin/cs1302/api:
+total 12
+-rw-r--r--. 1 myid 1038 May  4 01:14 WikipediaResponse.class
+-rw-r--r--. 1 myid  828 May  1 12:53 WikipediaResponse$Pages.class
+-rw-r--r--. 1 myid  637 May  1 12:53 WikipediaResponse$Query.class
+
+cs1302-api/meta:
+total 4
+-rw-r--r--. 1 myid 2243 May  4 04:14 DEADLINE.md
+
+cs1302-api/resources:
+total 2084
+-rw-r--r--. 1 myid      42 Apr 23 10:38 config.properties
+-rw-r--r--. 1 myid  582183 Apr 23 10:38 readme-banner.png
+-rw-r--r--. 1 myid 1540930 Apr 23 10:38 readme-newrepo.png
+
+cs1302-api/src:
+total 0
+drwxr-xr-x. 3 myid 26 Apr 23 10:38 main
+drwxr-xr-x. 3 myid 50 Apr 23 10:38 site
+
+cs1302-api/src/main:
+total 0
+drwxr-xr-x. 3 myid 56 Apr 23 10:38 java
+
+cs1302-api/src/main/java:
+total 4
+drwxr-xr-x. 3 myid  25 Apr 23 10:38 cs1302
+-rw-r--r--. 1 myid 373 Apr 23 10:38 module-info.java
+
+cs1302-api/src/main/java/cs1302:
+total 0
+drwxr-xr-x. 2 myid 221 May  4 15:39 api
+
+cs1302-api/src/main/java/cs1302/api:
+total 36
+-rw-r--r--. 1 myid 7259 May  4 15:39 ApiApp.java
+-rw-r--r--. 1 myid 1285 Apr 23 10:38 ApiDriver.java
+-rw-r--r--. 1 myid  782 May  4 04:03 ApiFirstResponse.java
+-rw-r--r--. 1 myid  461 May  4 03:52 Country.java
+-rw-r--r--. 1 myid 4332 Apr 23 10:38 OpenLibrarySearchApi.java
+-rw-r--r--. 1 myid 1670 Apr 23 10:38 PropertiesExample.java
+-rw-r--r--. 1 myid 2190 May  4 03:59 WikipediaResponse.java
+
+cs1302-api/src/site:
+total 4
+drwxr-xr-x. 2 myid  33 Apr 23 10:38 markdown
+-rw-r--r--. 1 myid 424 Apr 23 10:38 site.xml
+
+cs1302-api/src/site/markdown:
+total 4
+-rw-r--r--. 1 myid 133 Apr 23 10:38 index.md.vm
+
+cs1302-api/target:
+total 4
+drwxr-xr-x. 3 myid  145 May  4 15:39 classes
+drwxr-xr-x. 3 myid   33 May  4 15:39 generated-sources
+drwxr-xr-x. 3 myid   43 May  4 15:39 maven-status
+-rw-r--r--. 1 myid 1285 May  4 15:39 modulepath
+
+cs1302-api/target/classes:
+total 2088
+-rw-r--r--. 1 myid      42 May  4 15:39 config.properties
+drwxr-xr-x. 3 myid      25 May  4 15:39 cs1302
+-rw-r--r--. 1 myid     354 May  4 15:39 module-info.class
+-rw-r--r--. 1 myid  582183 May  4 15:39 readme-banner.png
+-rw-r--r--. 1 myid 1540930 May  4 15:39 readme-newrepo.png
+
+cs1302-api/target/classes/cs1302:
+total 4
+drwxr-xr-x. 2 myid 4096 May  4 15:39 api
+
+cs1302-api/target/classes/cs1302/api:
+total 56
+-rw-r--r--. 1 myid 8792 May  4 15:39 ApiApp.class
+-rw-r--r--. 1 myid 1503 May  4 15:39 ApiDriver.class
+-rw-r--r--. 1 myid  794 May  4 15:39 ApiFirstResponse.class
+-rw-r--r--. 1 myid  544 May  4 15:39 Country.class
+-rw-r--r--. 1 myid 5993 May  4 15:39 OpenLibrarySearchApi.class
+-rw-r--r--. 1 myid  493 May  4 15:39 OpenLibrarySearchApi$OpenLibraryDoc.class
+-rw-r--r--. 1 myid  617 May  4 15:39 OpenLibrarySearchApi$OpenLibraryResult.class
+-rw-r--r--. 1 myid 1680 May  4 15:39 PropertiesExample.class
+-rw-r--r--. 1 myid 1238 May  4 15:39 WikipediaResponse.class
+-rw-r--r--. 1 myid  658 May  4 15:39 WikipediaResponse$Page.class
+-rw-r--r--. 1 myid 1003 May  4 15:39 WikipediaResponse$Query.class
+
+cs1302-api/target/generated-sources:
+total 0
+drwxr-xr-x. 2 myid 6 May  4 15:39 annotations
+
+cs1302-api/target/generated-sources/annotations:
+total 0
+
+cs1302-api/target/maven-status:
+total 0
+drwxr-xr-x. 3 myid 29 May  4 15:39 maven-compiler-plugin
+
+cs1302-api/target/maven-status/maven-compiler-plugin:
+total 0
+drwxr-xr-x. 3 myid 37 May  4 15:39 compile
+
+cs1302-api/target/maven-status/maven-compiler-plugin/compile:
+total 0
+drwxr-xr-x. 2 myid 52 May  4 15:39 default-compile
+
+cs1302-api/target/maven-status/maven-compiler-plugin/compile/default-compile:
+total 8
+-rw-r--r--. 1 myid 426 May  4 15:39 createdFiles.lst
+-rw-r--r--. 1 myid 716 May  4 15:39 inputFiles.lst
+/home/myid/rjm20320/cs1302-projects/cs1302-api:/home/myid/csci-1302
